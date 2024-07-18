@@ -21,7 +21,6 @@ This project is a C# Windows Forms application designed to manage a library's op
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/matintalkhbe00/C-library-windows-form.git
-    cd C-library-windows-form
     ```
 
 2. **Open the project in Visual Studio:**
